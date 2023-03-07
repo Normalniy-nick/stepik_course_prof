@@ -1,3 +1,5 @@
+## https://stepik.org/lesson/571244/step/5?unit=565785
+
 from datetime import date, time, timedelta, datetime
 
 n = int(input())
